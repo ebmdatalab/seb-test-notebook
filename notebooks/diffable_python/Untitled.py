@@ -20,4 +20,6 @@ df = pd.DataFrame([2,3,4])
 
 df.mean()
 
+assert False, "oopy"
+
 
