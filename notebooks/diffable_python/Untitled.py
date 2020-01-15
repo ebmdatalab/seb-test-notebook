@@ -16,6 +16,8 @@
 
 import pandas as pd
 
-pd.DataFrame([2,3,4])
+df = pd.DataFrame([2,3,4])
+
+df.mean()
 
 
